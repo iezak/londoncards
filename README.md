@@ -19,3 +19,4 @@ if you totally create your plugin repository from the worktree of this one.
 cd /my/glpi/deployment/main/directory/plugins
 git clone git@github.com:pluginsGLPI/glpi-example-plugin.git example
 ```
+# londoncards
