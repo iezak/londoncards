@@ -1,13 +1,1 @@
-{
-  "name": "iezak/londoncards",
-  "description": "GLPI plugin LondonCards",
-  "type": "glpi-plugin",
-  "license": "GPL-2.0-or-later",
-  "autoload": {
-    "psr-4": {
-      "GlpiPlugin\\Londoncards\\": "src/"
-    }
-  },
-  "require": {}
-}
-
+{"name":"iezak/londoncards","description":"GLPI plugin LondonCards","type":"glpi-plugin","license":"GPL-2.0-or-later","autoload":{"psr-4":{"GlpiPlugin\\Londoncards\\":"src/"}},"require":{}}
