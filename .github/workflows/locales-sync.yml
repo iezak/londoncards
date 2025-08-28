@@ -1,4 +1,6 @@
 name: "Synchronize locales"
+permissions:
+  contents: read
 
 on:
   schedule:
