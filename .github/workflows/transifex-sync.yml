@@ -45,7 +45,7 @@ jobs:
     - name: "Pull translations"
       uses: "transifex/cli-action@v2"
       with:
-        args: "pull -a --minimum-perc=80 --overwrite"
+        args: "pull --all --minimum-perc=80 --overwrite"
         token: "${{ secrets.transifex-token }}"
 
     - name: "Compile MO files"
